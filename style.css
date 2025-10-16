@@ -83,7 +83,7 @@ footer .top p{
     rotate: -9deg;
 }
 .bottom{
-    background-color: rgb(53, 50, 50);
+    background-color: rgba(0, 0, 0, 1);
     padding: 8vw 4vw 0 ;
     display: flex;
     justify-content: space-between;
